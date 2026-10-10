@@ -45,9 +45,9 @@ The goal is **high-quality applications, not automated mass submissions**.
 
 The architecture and stack may evolve as the project develops.
 
-## Intended audience
+## License
 
-Initially a personal tool for a Computer Science & AI student seeking software engineering and AI/ML internships. It may later be extended to support configurable profiles for other students.
+Distributed under the [MIT License](LICENSE).
 
 ---
 
