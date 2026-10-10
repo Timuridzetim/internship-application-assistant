@@ -45,23 +45,6 @@ The goal is **high-quality applications, not automated mass submissions**.
 
 The architecture and stack may evolve as the project develops.
 
-## Development roadmap
-
-- [ ] **Phase 1 — Foundations:** Design vacancy and user-profile data models; implement storage and duplicate detection.
-- [ ] **Phase 2 — Discovery:** Add one reliable vacancy source, scheduling, filtering, and logging.
-- [ ] **Phase 3 — Telegram MVP:** Deliver a daily shortlist with vacancy summaries and application links.
-- [ ] **Phase 4 — Application tracker:** Save decisions, deadlines, and application statuses.
-- [ ] **Phase 5 — AI assistance:** Introduce explainable matching and drafts for user-reviewed CV tailoring.
-- [ ] **Phase 6 — Expansion:** Add more sources, tests, monitoring, and deployment options.
-
-## Principles
-
-- **Human in the loop:** Never submit an application without explicit user action.
-- **Accuracy over volume:** Flag uncertain eligibility; do not fabricate qualifications, experience, or vacancy details.
-- **Respect sources:** Prefer documented APIs or permitted feeds; follow platform terms and rate limits.
-- **Privacy first:** Avoid exposing personal CV data, tokens, or credentials in the repository or logs.
-- **Explainable recommendations:** Show why an internship was recommended rather than relying only on a numerical score.
-
 ## Intended audience
 
 Initially a personal tool for a Computer Science & AI student seeking software engineering and AI/ML internships. It may later be extended to support configurable profiles for other students.
